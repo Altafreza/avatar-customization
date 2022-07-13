@@ -7,6 +7,8 @@ https://altafreza.github.io/avatar-customization/
 --------------------------------------------------------------------------
 # sorce
 
+"
+
 
 import React from "react";
 import { Box, Badge, Avatar, makeStyles } from "@material-ui/core";
@@ -77,3 +79,5 @@ export default function App() {
     </Box>
   );
 }
+
+"
