@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://altafreza.github.io/csb-s3z63q/static/js/main.a3d50a22.chunk.js",
+    "main.js.map": "https://altafreza.github.io/csb-s3z63q/static/js/main.a3d50a22.chunk.js.map",
+    "runtime-main.js": "https://altafreza.github.io/csb-s3z63q/static/js/runtime-main.0b0f48ff.js",
+    "runtime-main.js.map": "https://altafreza.github.io/csb-s3z63q/static/js/runtime-main.0b0f48ff.js.map",
+    "static/js/2.79f19d05.chunk.js": "https://altafreza.github.io/csb-s3z63q/static/js/2.79f19d05.chunk.js",
+    "static/js/2.79f19d05.chunk.js.map": "https://altafreza.github.io/csb-s3z63q/static/js/2.79f19d05.chunk.js.map",
+    "index.html": "https://altafreza.github.io/csb-s3z63q/index.html",
+    "static/js/2.79f19d05.chunk.js.LICENSE.txt": "https://altafreza.github.io/csb-s3z63q/static/js/2.79f19d05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b0f48ff.js",
+    "static/js/2.79f19d05.chunk.js",
+    "static/js/main.a3d50a22.chunk.js"
+  ]
+}
